@@ -20,7 +20,7 @@
 	
 	<context:annotation-config />
 
-	<context:component-scan base-package="com.logging" />
+	<context:component-scan base-package="com.ionic.controller" />
 	
 	<!-- support JSR303 annotation if JSR 303 validation present on classpath -->
 	<mvc:annotation-driven />
